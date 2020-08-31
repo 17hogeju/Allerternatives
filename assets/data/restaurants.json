@@ -1,0 +1,319 @@
+[
+  {
+    "lat": 39.2581156,
+    "lng": -84.4725916,
+    "markerID": "mcdonalds01",
+    "name": "McDonald's",
+    "address": "10573 Springfield Pike, Woodlawn, OH 45215",
+    "distance": 0.6,
+    "units": "miles",
+    "openHour": 5,
+    "openMinute": 0,
+    "closeHour": 23,
+    "closeMinute": 0,
+    "rating": 3.2,
+    "numRatings": 534,
+    "phone": "(513) 771-8890",
+    "numDollars": 1,
+    "items": [
+      {
+        "name": "Big Mac",
+        "description": "550 Cal"
+      },
+      {
+        "name": "Quarter Pounder with Cheese",
+        "description": "250 Cal"
+      },
+      {
+        "name": "Double Quarter Pounder with Cheese",
+        "description": "250 Cal"
+      },
+      {
+        "name": "Quarter Pounder with Cheese Deluxe",
+        "description": "250 Cal"
+      },
+      {
+        "name": "McDouble",
+        "description": "250 Cal"
+      },
+      {
+        "name": "Quarter Pounder with Cheese Bacon",
+        "description": "250 Cal"
+      },
+      {
+        "name": "Cheeseburger",
+        "description": "250 Cal"
+      },
+      {
+        "name": "Double Cheeseburger",
+        "description": "250 Cal"
+      },
+      {
+        "name": "Hamburger",
+        "description": "250 Cal"
+      }
+    ]
+  },
+  {
+    "lat": 39.286280,
+    "lng": -84.485591,
+    "markerID": "WhiteCastle01",
+    "name": "White Castle",
+    "address": "11575 Springfield Pike, Springdale, OH 45246",
+    "distance": 2.11,
+    "units": "miles",
+    "openHour": 0,
+    "openMinute": 0,
+    "closeHour": 0,
+    "closeMinute": 0,
+    "rating": 3.7,
+    "numRatings": 739,
+    "phone": "(513) 771-4355",
+    "numDollars": 1,
+    "items": [
+      {
+        "name": "The Impossible Slider with Smoked Cheddar Cheese",
+        "description": "240 Cal"
+      },
+      {
+        "name": "The Original Slider",
+        "description": "140 Cal"
+      },
+      {
+        "name": "Cheese Slider",
+        "description": "170 Cal"
+      },
+      {
+        "name": "Bacon Cheese Slider",
+        "description": "220 Cal"
+      },
+      {
+        "name": "Double Cheese Slider",
+        "description": "300 Cal"
+      }
+    ]
+  },
+  {
+    "lat": 39.280997,
+    "lng": -84.4984471,
+    "markerID": "mcdonalds02",
+    "name": "McDonald's",
+    "address": "631 Northland Blvd, Forest Park, OH 45240",
+    "distance": 2.62,
+    "units": "miles",
+    "openHour": 7,
+    "openMinute": 0,
+    "closeHour": 21,
+    "closeMinute": 0,
+    "rating": 2.8,
+    "numRatings": 702,
+    "phone": "(513) 825-5210",
+    "numDollars": 1,
+    "items": [
+      {
+        "name": "Big Mac",
+        "description": "550 Cal"
+      },
+      {
+        "name": "Quarter Pounder with Cheese",
+        "description": "250 Cal"
+      },
+      {
+        "name": "Double Quarter Pounder with Cheese",
+        "description": "250 Cal"
+      },
+      {
+        "name": "Quarter Pounder with Cheese Deluxe",
+        "description": "250 Cal"
+      },
+      {
+        "name": "McDouble",
+        "description": "250 Cal"
+      },
+      {
+        "name": "Quarter Pounder with Cheese Bacon",
+        "description": "250 Cal"
+      },
+      {
+        "name": "Cheeseburger",
+        "description": "250 Cal"
+      },
+      {
+        "name": "Double Cheeseburger",
+        "description": "250 Cal"
+      },
+      {
+        "name": "Hamburger",
+        "description": "250 Cal"
+      }
+    ]
+  },
+  {
+    "lat": 39.237271,
+    "lng": -84.452634,
+    "markerID": "Wendys01",
+    "name": "Wendy's",
+    "address": "9537 Mangham Dr, Cincinnati, OH 45215",
+    "distance": 3.50,
+    "units": "miles",
+    "openHour": 6,
+    "openMinute": 30,
+    "closeHour": 24,
+    "closeMinute": 0,
+    "rating": 3.8,
+    "numRatings": 426,
+    "phone": "(513) 733-5149",
+    "numDollars": 1,
+    "items": [
+      {
+        "name": "Bacon Jalepeno Cheeseburger",
+        "description": "740 Cal"
+      },
+      {
+        "name": "Barbecue Cheeseburger",
+        "description": "630 Cal"
+      },
+      {
+        "name": "Dave's Single",
+        "description": "570 Cal"
+      },
+      {
+        "name": "Baconator",
+        "description": "920 Cal"
+      },
+      {
+        "name": "Big Bacon Classic Double",
+        "description": "870 Cal"
+      },
+      {
+        "name": "Jr Cheeseburger Deluxe",
+        "description": "340 Cal"
+      },
+      {
+        "name": "Jr Hamburger",
+        "description": "240 Cal"
+      }
+    ]
+  },
+  {
+    "lat": 39.210972,
+    "lng": -84.474009,
+    "markerID": "Wendys02",
+    "name": "Wendy's",
+    "address": "8240 Vine St, Cincinnati, OH 45216",
+    "distance": 4.10,
+    "units": "miles",
+    "openHour": 6,
+    "openMinute": 30,
+    "closeHour": 22,
+    "closeMinute": 0,
+    "rating": 3.0,
+    "numRatings": 660,
+    "phone": "(513) 821-3038",
+    "numDollars": 1,
+    "items": [
+      {
+        "name": "Bacon Jalepeno Cheeseburger",
+        "description": "740 Cal"
+      },
+      {
+        "name": "Barbecue Cheeseburger",
+        "description": "630 Cal"
+      },
+      {
+        "name": "Dave's Single",
+        "description": "570 Cal"
+      },
+      {
+        "name": "Baconator",
+        "description": "920 Cal"
+      },
+      {
+        "name": "Big Bacon Classic Double",
+        "description": "870 Cal"
+      },
+      {
+        "name": "Jr Cheeseburger Deluxe",
+        "description": "340 Cal"
+      },
+      {
+        "name": "Jr Hamburger",
+        "description": "240 Cal"
+      }
+    ]
+  },
+  {
+    "lat": 39.254733,
+    "lng": -84.423066,
+    "markerID": "BurgerKing01",
+    "name": "Burger King",
+    "address": "10425 Reading Rd, Cincinnati, OH 45241",
+    "distance": 6.68,
+    "units": "miles",
+    "openHour": 6,
+    "openMinute": 0,
+    "closeHour": 23,
+    "closeMinute": 0,
+    "rating": 3.5,
+    "numRatings": 688,
+    "phone": "(513) 563-1525",
+    "numDollars": 1,
+    "items": [
+      {
+        "name": "Whopper",
+        "description": "657 Cal"
+      },
+      {
+        "name": "Stacker King Single",
+        "description": "702 Cal"
+      },
+      {
+        "name": "Bacon King",
+        "description": "1147 Cal"
+      },
+      {
+        "name": "Double Whopper",
+        "description": "897 Cal"
+      },
+      {
+        "name": "Impossible Whopper",
+        "description": "628 Cal"
+      }
+    ]
+  },
+  {
+    "lat": 39.235454,
+    "lng": -84.509906,
+    "markerID": "Freddys01",
+    "name": "Freddy's Frozen Custard and Steakburgers",
+    "address": "9301 Winton Rd, Cincinnati, OH 45231",
+    "distance": 11.04,
+    "units": "miles",
+    "openHour": 10,
+    "openMinute": 30,
+    "closeHour": 22,
+    "closeMinute": 0,
+    "rating": 4.2,
+    "numRatings": 964,
+    "phone": "(513) 521-1643",
+    "numDollars": 1,
+    "items": [
+      {
+        "name": "Freddy's Original Double",
+        "description": "720 Cal"
+      },
+      {
+        "name": "Bacon and Cheese Double Steakburger",
+        "description": "790 Cal"
+      },
+      {
+        "name": "Double Steakburger California Style",
+        "description": "770 Cal"
+      },
+      {
+        "name": "Single Steakburger and Hot Dog",
+        "description": "850 Cal"
+      }
+    ]
+  }
+]

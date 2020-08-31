@@ -1,0 +1,570 @@
+[
+  {
+    "lat": 39.292419,
+    "lng": -84.455640,
+    "markerID": "target01",
+    "name": "Target",
+    "address": "900 E Kemper Rd, Springdale, OH 45246",
+    "distance": 2.75,
+    "units": "miles",
+    "openHour": 8,
+    "openMinute": 0,
+    "closeHour": 22,
+    "closeMinute": 0,
+    "rating": 4.1,
+    "numRatings": 415,
+    "phone": "(513) 671-8555",
+    "numDollars": 2,
+    "items": [
+      {
+        "name": "Daiya Dairy-Free Shredded Cheddar Cheese",
+        "description": "$4.99"
+      },
+      {
+        "name": "Daiya Dairy-Free Sliced American Style Cheese",
+        "description": "$4.99"
+      },
+      {
+        "name": "Daiya Dairy-Free Shredded Mozzarella Cheese",
+        "description": "$4.99"
+      },
+      {
+        "name": "Field Roast Chao Cheese Creamy Original",
+        "description": "$5.99"
+      },
+      {
+        "name": "Daiya Dairy-Free Cheddar Cheese Style Slices",
+        "description": "$4.99"
+      }
+    ]
+  },
+  {
+    "lat": 39.260349,
+    "lng": -84.470139,
+    "markerID": "kroger02",
+    "name": "Kroger",
+    "address": "10595 Springfield Pike, Cincinnati, OH 45215",
+    "distance": 2.95,
+    "units": "miles",
+    "openHour": 6,
+    "openMinute": 0,
+    "closeHour": 22,
+    "closeMinute": 0,
+    "rating": 3.9,
+    "numRatings": 419,
+    "phone": "(513) 771-1801",
+    "numDollars": 2,
+    "items": [
+      {
+        "name": "Go Veggie Vegan Classic Plain Cream Cheese Alternative",
+        "description": "$3.77"
+      },
+      {
+        "name": "Violife 100% Vegan Just Like Cheddar Slices",
+        "description": "$5.49"
+      },
+      {
+        "name": "Violife 100% Vegan Just Like Parmesan Cheese",
+        "description": "$5.29"
+      },
+      {
+        "name": "Violife 100% Vegan Just Like Feta Block",
+        "description": "$5.99"
+      },
+      {
+        "name": "Parma Chipotle Cayenne Vegan Parmesan Cheese Alternative",
+        "description": "$6.31"
+      },
+      {
+        "name": "Plant Snacks Cassava Root Chips Beet with Vegan Goat Cheese",
+        "description": "$3.51"
+      },
+      {
+        "name": "Annie's Organic Vegan Elbow Pasta & Sauce",
+        "description": "$1.86"
+      },
+      {
+        "name": "Parma! Vegan Parmesan Original",
+        "description": "$6.64"
+      },
+      {
+        "name": "Road's End Organics Mac & Chreese Vegan & Whole Wheat Cheddar Style",
+        "description": "$2.82"
+      },
+      {
+        "name": "Modern Table Gluten Free Classic Cheddar Style Vegan Mac",
+        "description": "$3.99"
+      },
+      {
+        "name": "Modern Table Gluten Free White Cheddar Style Vegan Mac",
+        "description": "$3.99"
+      }
+    ]
+  },
+  {
+    "lat": 39.210300,
+    "lng": -84.475380,
+    "markerID": "kroger01",
+    "name": "Kroger",
+    "address": "8241 Vine St, Cincinnati, OH 45216",
+    "distance": 4.18,
+    "units": "miles",
+    "openHour": 7,
+    "openMinute": 0,
+    "closeHour": 22,
+    "closeMinute": 0,
+    "rating": 3.8,
+    "numRatings": 695,
+    "phone": "(513) 821-2230",
+    "numDollars": 2,
+    "items": [
+      {
+        "name": "Go Veggie Vegan Classic Plain Cream Cheese Alternative",
+        "description": "$3.77"
+      },
+      {
+        "name": "Violife 100% Vegan Just Like Cheddar Slices",
+        "description": "$5.49"
+      },
+      {
+        "name": "Violife 100% Vegan Just Like Parmesan Cheese",
+        "description": "$5.29"
+      },
+      {
+        "name": "Violife 100% Vegan Just Like Feta Block",
+        "description": "$5.99"
+      },
+      {
+        "name": "Parma Chipotle Cayenne Vegan Parmesan Cheese Alternative",
+        "description": "$6.31"
+      },
+      {
+        "name": "Plant Snacks Cassava Root Chips Beet with Vegan Goat Cheese",
+        "description": "$3.51"
+      },
+      {
+        "name": "Annie's Organic Vegan Elbow Pasta & Sauce",
+        "description": "$1.86"
+      },
+      {
+        "name": "Parma! Vegan Parmesan Original",
+        "description": "$6.64"
+      },
+      {
+        "name": "Road's End Organics Mac & Chreese Vegan & Whole Wheat Cheddar Style",
+        "description": "$2.82"
+      },
+      {
+        "name": "Modern Table Gluten Free Classic Cheddar Style Vegan Mac",
+        "description": "$3.99"
+      },
+      {
+        "name": "Modern Table Gluten Free White Cheddar Style Vegan Mac",
+        "description": "$3.99"
+      }
+    ]
+  },
+  {
+    "lat": 39.2901112,
+    "lng": -84.5272747,
+    "markerID": "kroger03",
+    "name": "Kroger",
+    "address": "1212 W Kemper Rd, Cincinnati, OH 45240",
+    "distance": 4.21,
+    "units": "miles",
+    "openHour": 6,
+    "openMinute": 0,
+    "closeHour": 22,
+    "closeMinute": 0,
+    "rating": 3.8,
+    "numRatings": 524,
+    "phone": "(513) 674-5800",
+    "numDollars": 2,
+    "items": [
+      {
+        "name": "Go Veggie Vegan Classic Plain Cream Cheese Alternative",
+        "description": "$3.77"
+      },
+      {
+        "name": "Violife 100% Vegan Just Like Cheddar Slices",
+        "description": "$5.49"
+      },
+      {
+        "name": "Violife 100% Vegan Just Like Parmesan Cheese",
+        "description": "$5.29"
+      },
+      {
+        "name": "Violife 100% Vegan Just Like Feta Block",
+        "description": "$5.99"
+      },
+      {
+        "name": "Parma Chipotle Cayenne Vegan Parmesan Cheese Alternative",
+        "description": "$6.31"
+      },
+      {
+        "name": "Plant Snacks Cassava Root Chips Beet with Vegan Goat Cheese",
+        "description": "$3.51"
+      },
+      {
+        "name": "Annie's Organic Vegan Elbow Pasta & Sauce",
+        "description": "$1.86"
+      },
+      {
+        "name": "Parma! Vegan Parmesan Original",
+        "description": "$6.64"
+      },
+      {
+        "name": "Road's End Organics Mac & Chreese Vegan & Whole Wheat Cheddar Style",
+        "description": "$2.82"
+      },
+      {
+        "name": "Modern Table Gluten Free Classic Cheddar Style Vegan Mac",
+        "description": "$3.99"
+      },
+      {
+        "name": "Modern Table Gluten Free White Cheddar Style Vegan Mac",
+        "description": "$3.99"
+      }
+    ]
+  },
+  {
+    "lat": 39.204174,
+    "lng": -84.373718,
+    "markerID": "wholeFoods01",
+    "name": "Whole Foods",
+    "address": "5901 E Galbraith Rd, Cincinnati, OH 45236",
+    "distance": 4.33,
+    "units": "miles",
+    "openHour": 8,
+    "openMinute": 0,
+    "closeHour": 21,
+    "closeMinute": 0,
+    "rating": 4.5,
+    "numRatings": 77,
+    "phone": "(513) 699-7710",
+    "numDollars": 3,
+    "items": [
+      {
+        "name": "Violife Original Cream Cheese",
+        "description": "$4.49"
+      },
+      {
+        "name": "Daiya Cheddar Style Sliced Cheese",
+        "description": "$4.79"
+      },
+      {
+        "name": "365 Non-dairy Gouda Cheese Slices",
+        "description": "$3.99"
+      },
+      {
+        "name": "Tofutti Plain Imitation Cream Cheese",
+        "description": "$3.79"
+      },
+      {
+        "name": "365 Non-dairy Cheddar Cheese Shreds",
+        "description": "$3.99"
+      },
+      {
+        "name": "365 Non-dairy Mozzarella Cheese Shreds",
+        "description": "$3.99"
+      },
+      {
+        "name": "Treeline Scallion Flavor Treenut Cheese",
+        "description": "$7.49"
+      }
+    ]
+  },
+  {
+    "lat": 39.2971968,
+    "lng": -84.5214584,
+    "markerID": "walmart02",
+    "name": "Walmart",
+    "address": "1143 Smiley Ave, Cincinnati, OH 45240",
+    "distance": 4.39,
+    "units": "miles",
+    "openHour": 7,
+    "openMinute": 0,
+    "closeHour": 20,
+    "closeMinute": 30,
+    "rating": 3.6,
+    "numRatings": 2105,
+    "phone": "(513) 825-4423",
+    "numDollars": 1,
+    "items": [
+      {
+        "name": "Daiya Cheezy Mac",
+        "description": "$3.97"
+      },
+      {
+        "name": "Modern Table Vegan Mac Classic Cheddar Style",
+        "description": "$3.79"
+      },
+      {
+        "name": "Annie's Organic Vegan Gluten Free Elbow Macaroni (12 pack)",
+        "description": "$12.00"
+      },
+      {
+        "name": "Vegetarian Original Chao Slices",
+        "description": "In-Store purchase only"
+      }
+    ]
+  },
+  {
+    "lat": 39.309338,
+    "lng": -84.525123,
+    "markerID": "meijer01",
+    "name": "Meijer",
+    "address": "6325 S Gilmore Rd, Fairfield, OH 45014",
+    "distance": 5.96,
+    "units": "miles",
+    "openHour": 6,
+    "openMinute": 0,
+    "closeHour": 24,
+    "closeMinute": 0,
+    "rating": 4.2,
+    "numRatings": 2402,
+    "phone": "(513) 881-0100",
+    "numDollars": 2,
+    "items": [
+      {
+        "name": "Daiya Dariy Free Cheddar Shreds",
+        "description": "$4.19"
+      },
+      {
+        "name": "Daiya Dairy Free Mozzarella Shreds",
+        "description": "$4.19"
+      },
+      {
+        "name": "Daiya Dairy Free Cheddar Style Slices",
+        "description": "$4.19"
+      },
+      {
+        "name": "Daiya Dairy Free Provolone Style Slices",
+        "description": "$4.19"
+      },
+      {
+        "name": "Kite Hill Plain Cream Cheese Style Spread",
+        "description": "$5.99"
+      },
+      {
+        "name": "Daiya Dairy Free Plain Cream Cheese",
+        "description": "$4.89"
+      }
+    ]
+  },
+  {
+    "lat": 39.225695,
+    "lng": -84.395215,
+    "markerID": "target02",
+    "name": "Target",
+    "address": "9099 Plainfield Rd, Blue Ash, OH 45236",
+    "distance": 6.78,
+    "units": "miles",
+    "openHour": 8,
+    "openMinute": 0,
+    "closeHour": 22,
+    "closeMinute": 0,
+    "rating": 4.3,
+    "numRatings": 474,
+    "phone": "(513) 898-2021",
+    "numDollars": 2,
+    "items": [
+      {
+        "name": "Daiya Dairy-Free Shredded Cheddar Cheese",
+        "description": "$4.99"
+      },
+      {
+        "name": "Daiya Dairy-Free Sliced American Style Cheese",
+        "description": "$4.99"
+      },
+      {
+        "name": "Daiya Dairy-Free Shredded Mozzarella Cheese",
+        "description": "$4.99"
+      },
+      {
+        "name": "Field Roast Chao Cheese Creamy Original",
+        "description": "$5.99"
+      },
+      {
+        "name": "Daiya Dairy-Free Cheddar Cheese Style Slices",
+        "description": "$4.99"
+      }
+    ]
+  },
+  {
+    "lat": 39.296376,
+    "lng": -84.392027,
+    "markerID": "kroger04",
+    "name": "Kroger",
+    "address": "12164 Lebanon Rd, Sharonville, OH 45241",
+    "distance": 8.31,
+    "units": "miles",
+    "openHour": 7,
+    "openMinute": 0,
+    "closeHour": 22,
+    "closeMinute": 0,
+    "rating": 4.1,
+    "numRatings": 596,
+    "phone": "(513) 733-4910",
+    "numDollars": 2,
+    "items": [
+      {
+        "name": "Go Veggie Vegan Classic Plain Cream Cheese Alternative",
+        "description": "$3.77"
+      },
+      {
+        "name": "Violife 100% Vegan Just Like Cheddar Slices",
+        "description": "$5.49"
+      },
+      {
+        "name": "Violife 100% Vegan Just Like Parmesan Cheese",
+        "description": "$5.29"
+      },
+      {
+        "name": "Violife 100% Vegan Just Like Feta Block",
+        "description": "$5.99"
+      },
+      {
+        "name": "Parma Chipotle Cayenne Vegan Parmesan Cheese Alternative",
+        "description": "$6.31"
+      },
+      {
+        "name": "Plant Snacks Cassava Root Chips Beet with Vegan Goat Cheese",
+        "description": "$3.51"
+      },
+      {
+        "name": "Annie's Organic Vegan Elbow Pasta & Sauce",
+        "description": "$1.86"
+      },
+      {
+        "name": "Parma! Vegan Parmesan Original",
+        "description": "$6.64"
+      },
+      {
+        "name": "Road's End Organics Mac & Chreese Vegan & Whole Wheat Cheddar Style",
+        "description": "$2.82"
+      },
+      {
+        "name": "Modern Table Gluten Free Classic Cheddar Style Vegan Mac",
+        "description": "$3.99"
+      },
+      {
+        "name": "Modern Table Gluten Free White Cheddar Style Vegan Mac",
+        "description": "$3.99"
+      }
+    ]
+  },
+  {
+    "lat": 39.354195,
+    "lng": -84.360626,
+    "markerID": "freshMarket01",
+    "name": "Fresh Market",
+    "address": "7720 Voice of America Centre Dr, West Chester Township, OH 45069",
+    "distance": 12.16,
+    "units": "miles",
+    "openHour": 8,
+    "openMinute": 0,
+    "closeHour": 21,
+    "closeMinute": 0,
+    "rating": 4.5,
+    "numRatings": 233,
+    "phone": "(513) 755-6111",
+    "numDollars": 3,
+    "items": [
+      {
+        "name": "Daiya Cheddar Style Sliced Cheese",
+        "description": "$4.99"
+      },
+      {
+        "name": "Tofutti Plain Imitation Cream Cheese",
+        "description": "$3.99"
+      },
+      {
+        "name": "Daiya Cheezy Mac",
+        "description": "$4.25"
+      }
+    ]
+  },
+  {
+    "lat": 39.308866,
+    "lng": -84.317185,
+    "markerID": "wholeFoods02",
+    "name": "Whole Foods",
+    "address": "5805 Deerfield Blvd, Mason, OH 45040",
+    "distance": 14.42,
+    "units": "miles",
+    "openHour": 8,
+    "openMinute": 0,
+    "closeHour": 21,
+    "closeMinute": 0,
+    "rating": 4.3,
+    "numRatings": 404,
+    "phone": "(513) 398-9358",
+    "numDollars": 3,
+    "items": [
+      {
+        "name": "Violife Original Cream Cheese",
+        "description": "$4.49"
+      },
+      {
+        "name": "Daiya Cheddar Style Sliced Cheese",
+        "description": "$4.79"
+      },
+      {
+        "name": "365 Non-dairy Gouda Cheese Slices",
+        "description": "$3.99"
+      },
+      {
+        "name": "Tofutti Plain Imitation Cream Cheese",
+        "description": "$3.79"
+      },
+      {
+        "name": "365 Non-dairy Cheddar Cheese Shreds",
+        "description": "$3.99"
+      },
+      {
+        "name": "365 Non-dairy Mozzarella Cheese Shreds",
+        "description": "$3.99"
+      },
+      {
+        "name": "Treeline Scallion Flavor Treenut Cheese",
+        "description": "$7.49"
+      }
+    ]
+  },
+  {
+    "lat": 39.2499777,
+    "lng": -84.4317877,
+    "markerID": "walmart01",
+    "name": "Walmart",
+    "address": "2801 Cunningham Dr, Cincinnati, OH 45241",
+    "distance": 17.79,
+    "units": "miles",
+    "openHour": 7,
+    "openMinute": 0,
+    "closeHour": 20,
+    "closeMinute": 30,
+    "rating": 3.6,
+    "numRatings": 3814,
+    "phone": "(513) 769-1124",
+    "numDollars": 1,
+    "items": [
+      {
+        "name": "Daiya Cheezy Mac",
+        "description": "$3.97"
+      },
+      {
+        "name": "Modern Table Vegan Mac Classic Cheddar Style",
+        "description": "$3.79"
+      },
+      {
+        "name": "Annie's Organic Vegan Gluten Free Elbow Macaroni (12 pack)",
+        "description": "$12.00"
+      },
+      {
+        "name": "Vegetarian Original Chao Slices",
+        "description": "In-Store purchase only"
+      }
+    ]
+  }
+]

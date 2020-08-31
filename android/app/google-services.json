@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "93103970188",
+    "firebase_url": "https://aller-ternatives.firebaseio.com",
+    "project_id": "aller-ternatives",
+    "storage_bucket": "aller-ternatives.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93103970188:android:50515219b9ffdc632568a9",
+        "android_client_info": {
+          "package_name": "com.example.allerternatives"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93103970188-lm04l1ssqkh3t8ld4hg28l1sjedtfu2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdqlGNyybSaXrRHM8OYg7AS9lgR8In7TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93103970188-lm04l1ssqkh3t8ld4hg28l1sjedtfu2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
